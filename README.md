@@ -1,5 +1,3 @@
-
-
 ### Olá! Eu sou o Rafael Vesoloski✌🏻
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
@@ -27,7 +25,7 @@ sld
 
 <hr>
 
-### Tecnologias que já aprendi
+### Tecnologias que já aprendi ✅
 
 <div style="display: inline_block"><br/>
     <img olign="center" alt="html 5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
