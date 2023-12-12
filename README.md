@@ -8,7 +8,9 @@
 )](https://wa.me/5547999263733)
 <hr>
 
-<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/134641899/289890846-40654490-2f0c-437c-a227-2be4b38c0552.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20231212%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20231212T142105Z&X-Amz-Expires=300&X-Amz-Signature=126c5328a96ff1f38383b11421bff28dcd31838f6cf629c6caae897d9e8a3e3c&X-Amz-SignedHeaders=host&actor_id=134641899&key_id=0&repo_id=730672939" alt="imagem" width="400" style="display: block; margin: auto;"/>
+<p align="center">
+  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/134641899/289890846-40654490-2f0c-437c-a227-2be4b38c0552.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20231212%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20231212T142105Z&X-Amz-Expires=300&X-Amz-Signature=126c5328a96ff1f38383b11421bff28dcd31838f6cf629c6caae897d9e8a3e3c&X-Amz-SignedHeaders=host&actor_id=134641899&key_id=0&repo_id=730672939" alt="imagem" width="400" style="display: block; margin: auto;"/>
+</p>
 
 <hr>
 
