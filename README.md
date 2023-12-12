@@ -25,7 +25,7 @@ sld
 
 <hr>
 
-### Tecnologias que já aprendi ✅
+### Tecnologias ✅
 
 <div style="display: inline_block"><br/>
     <img olign="center" alt="html 5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
