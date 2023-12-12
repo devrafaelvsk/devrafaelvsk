@@ -8,7 +8,7 @@
 )](https://wa.me/5547999263733)
 
 
-
+<br/>
 ## Tecnologias que já aprendi
 
 <div style="display: inline_block"><br/>
