@@ -27,6 +27,6 @@
 </div><br/>
 <hr>
 
-Desde a infância, trabalho como fumicultor, uma atividade que exige muito esforço físico. Decidi que queria mudar essa realidade e vi na programação e na tecnologia a chance ideal para realizar essa mudança de vida
+Desde a infância, trabalho como fumicultor, uma atividade que exige muito esforço físico. Decidi que queria mudar essa realidade e vi na programação e na tecnologia a chance ideal para realizar essa mudança de vida.
 
 <hr>
