@@ -27,6 +27,6 @@
 </div><br/>
 <hr>
 
-Gosto muito de tecnologia. Já fiz curso de algoritmos e os de Python do Curso em Vídeo. Atualmente, estou fazendo curso na OneBitCode e faculdade de Análise e Desenvolvimento de Sistemas (ADS) na Uninter.<br> Ainda não tenho experiência de trabalho na área, mas estou ansioso para começar a ganhar experiência em breve. Ao longo da minha vida, trabalhei com o cultivo do tabaco. Tenho 17 anos e moro em Santa Catarina.
+Desde a infância, trabalho como fumicultor, uma atividade que exige muito esforço físico. Decidi que queria mudar essa realidade e encontrei na programação e na tecnologia uma excelente oportunidade para realizar essa mudança de vida.
 
 <hr>
